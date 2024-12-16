@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566372018642",
+    "project_id": "gadget-negarkhodro",
+    "storage_bucket": "gadget-negarkhodro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566372018642:android:049254af16b1111a44c00b",
+        "android_client_info": {
+          "package_name": "com.negarkhodro.rahnegar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnmcwgJ9dAl_hzFoYCxRg0gm2VvgvHxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
